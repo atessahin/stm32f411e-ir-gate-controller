@@ -5,7 +5,9 @@ STM32F411E based automatic parking gate control system using IR sensor for vehic
 # STM32F411E IR Gate Controller
 - This code is designed for ENTRANCE gate control only. Not suitable for exit gate implementation.
 - System has NO vehicle recognition capability - gate will open for any object detected by the IR sensor.
--An automated parking gate control system implemented on STM32F411E-Discovery board using IR sensor for vehicle detection and PWM-controlled motor for gate operation.
+
+- -An automated parking gate control system implemented on STM32F411E-Discovery board using IR sensor for vehicle detection and PWM-controlled motor for gate operation.
+
 
 ## Hardware Requirements
 
